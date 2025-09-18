@@ -1,0 +1,12 @@
+
+Número do contrato,Nome do contratante,CPF do contratante,CNPJ,Quantidade de funcionários,Quantidade de CNPJs,Nome do responsável,CPF do responsável,Data de pagamento,Data de início do contrato,Cidade,Estado,CEP,Número (endereço),Valor do contrato,Tipo de plano
+001,Empresa ABC Ltda,,12.345.678/0001-90,5,1,João Silva,123.456.789-09,15,2024-01-15,São Paulo,SP,01234-567,123,1500.00,mensal
+002,Comércio XYZ,987.654.321-00,98.765.432/0001-10,10,1,Maria Santos,987.654.321-00,10,2024-02-01,Rio de Janeiro,RJ,20000-000,456,2500.00,semestral
+003,Tech Solutions,,11.222.333/0001-44,3,1,Pedro Costa,111.222.333-44,5,2024-01-20,Belo Horizonte,MG,30000-000,789,800.00,mensal
+004,Inovação Digital,,22.333.444/0001-55,15,2,Ana Oliveira,222.333.444-55,20,2024-03-01,Porto Alegre,RS,90000-000,321,3000.00,anual
+005,Consultoria Estratégica,,33.444.555/0001-66,8,1,Carlos Ferreira,333.444.555-66,12,2024-02-15,Brasília,DF,70000-000,654,1800.00,mensal
+006,Logística Express,,44.555.666/0001-77,12,1,Fernanda Lima,444.555.666-77,25,2024-01-30,Curitiba,PR,80000-000,987,2200.00,semestral
+007,Desenvolvimento Web,,55.666.777/0001-88,6,1,Roberto Alves,555.666.777-88,8,2024-03-10,Fortaleza,CE,60000-000,159,1200.00,mensal
+008,Marketing Digital,,66.777.888/0001-99,4,1,Juliana Rocha,666.777.888-99,18,2024-02-20,Salvador,BA,40000-000,753,950.00,mensal
+009,Contabilidade Moderna,,77.888.999/0001-00,20,3,Lucas Martins,777.888.999-00,30,2024-01-10,Recife,PE,50000-000,852,4500.00,anual
+010,Arquitetura e Design,,88.999.000/0001-11,7,1,Camila Torres,888.999.000-11,3,2024-03-05,Goiânia,GO,74000-000,741,1350.00,mensal

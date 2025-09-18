@@ -1,0 +1,4 @@
+Número do contrato,Nome do contratante,CPF do contratante,CNPJ,Quantidade de funcionários,Quantidade de CNPJs,Nome do responsável,CPF do responsável,Data de pagamento,Data de início do contrato,Cidade,Estado,Email,Endereço completo,Valor do contrato,Tipo de plano,RG do responsável,Desconto semestral (%),Desconto anual (%),Dias de teste,Data de renovação
+001,Empresa Alpha Ltda,529.982.247-25,11.222.333/0001-81,50,1,João Silva,123.456.789-09,10,2024-01-15,São Paulo,SP,joao@alpha.com,Rua das Flores 123,2500.00,mensal,12.345.678-9,5,10,30,2025-01-15
+002,Beta Comércio ME,987.654.321-00,22.333.444/0001-92,25,2,Maria Santos,111.444.777-35,15,2024-02-01,Rio de Janeiro,RJ,maria@beta.com,Av. Principal 456,1800.00,semestral,98.765.432-1,10,15,15,2025-02-01
+003,Gamma Serviços Eireli,,33.444.555/0001-03,100,3,Pedro Costa,222.555.888-46,20,2024-03-10,Belo Horizonte,MG,pedro@gamma.com,Praça Central 789,5000.00,anual,11.222.333-4,0,20,60,2025-03-10
